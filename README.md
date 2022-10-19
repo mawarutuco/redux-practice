@@ -1,3 +1,3 @@
 # redux_practice
 
-安裝 npm install redux react-redux
+安裝 npm install redux react-redux @reduxjs/toolkit
